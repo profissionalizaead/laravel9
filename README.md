@@ -1,6 +1,6 @@
 
 # Setup Docker Para Projetos Laravel
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
+[Assine a Profissionaliza Cursos EAD, e Seja VIP!](https://ead.profissionalizaead.com.br)
 
 ### Passo a passo
 Clone Repositório
@@ -32,7 +32,7 @@ cp .env.example .env
 
 Atualize as variáveis de ambiente do arquivo .env
 ```dosini
-APP_NAME="Especializa Ti"
+APP_NAME="Profissionaliza_Laravel9"
 APP_URL=http://localhost:8989
 
 DB_CONNECTION=mysql
